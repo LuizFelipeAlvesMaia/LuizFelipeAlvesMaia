@@ -11,7 +11,7 @@
 
 :house_with_garden: Eu sou brasileiro, proveniente das terras do cafézinho com pão de queijo e todo trêm é bão!
 
-:books: No momento estou aprendendo de tudo, desde Desenvolvimento front-end a como ser um Devops.
+:books: No momento estou aprendendo tudo sobre Devops.
 
 :outbox_tray: 2021 Goals: Meus objetivos são ler mais, ser um ótimo profissional e mostrar toda minha capacidade de aplicação e aprendizado.
 
