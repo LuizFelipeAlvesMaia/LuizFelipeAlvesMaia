@@ -7,24 +7,25 @@
 
 ## About me
 
-:computer: Eu sou jovem Padwan no mundo do desenvolvimento e da TI em geral, e quero aprender de tudo e mais um pouco!
+:computer: Eu sou iniciante no mundo do desenvolvimento, e quero poder conquistar minha posição com Dev no mercado. Para isso, tenho buscado constate evolução com estudo e esforço continuo. 
 
-:house_with_garden: Eu sou brasileiro, proveniente das terras do cafézinho com pão de queijo e todo trêm é bão!
+:house_with_garden: Eu sou brasileiro, proveniente das terras do cafézinho com pão de queijo e todo trêm é bão. A famosa Minas Gerais, da região de BH!
 
-:books: No momento estou aprendendo tudo sobre Devops.
+:books: No momento estou aprendendo tudo sobre desenvolvimento, focado em ser Full-Stack e aprendendo sempre que possivel sobre Cloud Computing.
 
-:outbox_tray: 2021 Goals: Meus objetivos são ler mais, ser um ótimo profissional e mostrar toda minha capacidade de aplicação e aprendizado.
+:outbox_tray: 2021 Goals: Meus objetivos é ser um profissional de destaque, que conseiga atingir varias áreas simultaneamente.
 
 
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="Luiz-VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="Luiz-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
-  <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg">
-  <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Luiz-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Luiz-Js" height="30" width="40" src="href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Luiz-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Luiz-Luiz-VueJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Luiz-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Luiz-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <img align="right" alt="Rafa-yoda" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif"  width="120" height="106" frameBorder="0">
   
   </img>
