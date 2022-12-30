@@ -3,7 +3,7 @@
 
 ## Olá, meu nome é Luiz Felipe e esse é meu reposotorio do GitHub! ^-^
 
-# Welcome | Bem vindo | Bienvenido !
+# Bem vindo | Welcome | Bienvenido !
 
 ## About me
 
