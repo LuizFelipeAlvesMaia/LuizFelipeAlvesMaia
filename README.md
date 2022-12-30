@@ -18,7 +18,7 @@
 
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Luiz-Js" height="30" width="40" <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">>
+  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://img.icons8.com/color/512/javascript--v2.png">
   <img align="center" alt="Luiz-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <img align="center" alt="Luiz-VueJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <img align="center" alt="Luiz-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
