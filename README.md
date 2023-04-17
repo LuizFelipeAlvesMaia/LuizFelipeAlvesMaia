@@ -7,14 +7,13 @@
 
 ## About me
 
-:computer: Eu sou iniciante no mundo do desenvolvimento, e quero poder conquistar minha posição com Dev no mercado. Para isso, tenho buscado constate evolução com estudo e esforço continuo. 
+:computer: Como Engenheiro DevOps e Analista de Infraestrutura, sou um estudante ávido da cultura DevOps e estou sempre buscando novas formas de aplicar seus princípios e práticas para melhorar a entrega de software e serviços.
 
-:house_with_garden: Eu sou brasileiro, proveniente das terras do cafézinho com pão de queijo e todo trêm é bão. A famosa Minas Gerais, da região de BH!
+:house_with_garden: Eu sou brasileiro, proveniente das terras do cafézinho com pão de queijo com trêm bão. A famosa Beaga!
 
-:books: No momento estou aprendendo tudo sobre desenvolvimento, focado em ser Full-Stack e aprendendo sempre que possivel sobre Cloud Computing.
+:books: Com uma sede insaciável por conhecimento, estou constantemente buscando me aprimorar em áreas como Cloud Computing, Automatização, Contêineres e outras tecnologias emergentes que integram meu cotidiano.
 
-:outbox_tray: 2021 Goals: Meus objetivos é ser um profissional de destaque, que conseiga atingir varias áreas simultaneamente.
-
+:outbox_tray: Com um desejo incansável de crescimento pessoal, estou empenhado em aprender continuamente e me tornar a melhor versão de mim mesmo!
 
   
 <div style="display: inline_block"><br>
