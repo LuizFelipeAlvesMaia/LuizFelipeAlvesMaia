@@ -1,7 +1,7 @@
 
 ----------------------------------------------------------------------------------
 
-## Olá, meu nome é Luiz Felipe e esse é meu reposotorio do GitHub! ^-^
+## Olá, meu nome é Luiz Felipe e esse é meu reposotorio! ^-^
 
 # Bem vindo | Welcome | Bienvenido !
 
